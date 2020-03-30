@@ -40,6 +40,7 @@ struct Mocks {
 				assert(false)
 			}
 		}
+		print("Mock file not found: \(jsonFile)")
 		return nil
 	}
 	
