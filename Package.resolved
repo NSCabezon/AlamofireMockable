@@ -14,9 +14,9 @@
         "package": "HelpersSPM",
         "repositoryURL": "git@github.com:NSCabezon/HelpersSPM.git",
         "state": {
-          "branch": null,
-          "revision": "0da4b11b64bb9a4d12e3a88669c1aefffa6a0727",
-          "version": "1.0.6"
+          "branch": "master-5.1",
+          "revision": "17ebef312cc47467d9c6d25f060d3e7b633b7ded",
+          "version": null
         }
       }
     ]
